@@ -1,4 +1,4 @@
-# MoSEF_Projet_Finance_Quantitative
+# MoSEF_Projet_Finance_Quantitative (17,73/20)
 
 Ce projet a été réalisé dans le cadre du cours de finance quantitative, où nous avons effectué une analyse approfondie des titres financiers tels que l'ACP (Analyse en Composantes Principales) et les clusters. L'objectif principal était de mettre en œuvre des techniques d'apprentissage automatique afin de construire un portefeuille capable de surpasser le SP500 en termes de volatilité, de ratio de Sharpe et de rendement.
 
